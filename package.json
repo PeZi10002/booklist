@@ -1,0 +1,19 @@
+{
+  "name": "booklist-app",
+  "version": "1.0.0",
+  "description": "vanilla JS project",
+  "main": "app.js",
+  "homepage": "https://PeZi10002.github.io/booklist",
+  "scripts": {
+    "deploy": "gh-pages -d Booklist App"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeZi10002/booklist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeZi10002/booklist/issues"
+  }
+}
