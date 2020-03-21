@@ -5,15 +5,19 @@
   "main": "app.js",
   "homepage": "https://PeZi10002.github.io/booklist",
   "scripts": {
-    "deploy": "gh-pages -d Booklist App"
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/PeZi10002/booklist.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/PeZi10002/booklist/issues"
+  },
+  "dependencies": {
+    "gh-pages": "^2.2.0",
+    "node": "^13.10.1"
   }
 }
